@@ -1,6 +1,6 @@
 # Student Result Management System
 
-This is a Spring Boot-based web application to manage student results, including student records, marks entry, class-wise result viewing, and admin login.
+This is a Spring Boot-based web application to manage student results, marks entry, result viewing, and admin login.
 
 ## Features
 - Admin login & dashboard
